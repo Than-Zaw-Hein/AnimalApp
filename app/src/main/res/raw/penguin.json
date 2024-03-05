@@ -1,0 +1,568 @@
+[
+  {
+    "name": "Adelie Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Pygoscelis",
+      "scientific_name": "Pygoscelis adeliae"
+    },
+    "locations": [
+      "Antarctica",
+      "Asia",
+      "Eurasia",
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Krill, Fish, Squid",
+      "name_of_young": "Chicks",
+      "group_behavior": "Colony",
+      "estimated_population_size": "5 million",
+      "biggest_threat": "Rapid ice melt",
+      "most_distinctive_feature": "Small white circle around each eye",
+      "wingspan": "35cm - 70cm (14in - 27.5in)",
+      "incubation_period": "2 months",
+      "age_of_fledgling": "90 days",
+      "habitat": "Antarctic land and ocean",
+      "predators": "Leopard Seal, Skua Gull, Killer Whale",
+      "diet": "Carnivore",
+      "lifestyle": "Diurnal",
+      "common_name": "Adelie Penguin",
+      "number_of_species": "1",
+      "location": "Coastal Antarctica",
+      "average_clutch_size": "2",
+      "slogan": "Eats up to 2kg of food per day!",
+      "group": "Bird",
+      "skin_type": "Feathers",
+      "top_speed": "45 mph",
+      "lifespan": "10 - 20 years",
+      "weight": "3kg - 6kg (7lbs - 13lbs)",
+      "height": "40cm - 75cm (16in - 30in)",
+      "age_of_sexual_maturity": "2 - 3 years"
+    }
+  },
+  {
+    "name": "African Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Spheniscus",
+      "scientific_name": "Spheniscus demersus"
+    },
+    "locations": [
+      "Africa",
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Fish, Squid, Crustaceans",
+      "name_of_young": "Chick",
+      "group_behavior": "Colony",
+      "estimated_population_size": "140,000",
+      "biggest_threat": "Habitat disruption",
+      "most_distinctive_feature": "Pink glands above their eyes",
+      "other_name(s)": "Jackass Penguin",
+      "water_type": "Salt",
+      "incubation_period": "40 days",
+      "age_of_fledgling": "3 - 5 months",
+      "habitat": "Rocky Ocean Islands",
+      "predators": "Sharks, Fur Seals, Gulls",
+      "diet": "Carnivore",
+      "lifestyle": "Diurnal",
+      "common_name": "African Penguin",
+      "number_of_species": "1",
+      "location": "south-west African coast",
+      "average_clutch_size": "2",
+      "slogan": "The only penguin species in Africa!",
+      "group": "Bird",
+      "color": "GreyBlackWhite",
+      "skin_type": "Feathers",
+      "top_speed": "12.4 mph",
+      "lifespan": "10 - 15 years",
+      "weight": "2kg - 5kg (4.4lbs - 11lbs)",
+      "height": "60cm - 68cm (24in - 27in)",
+      "age_of_sexual_maturity": "3 - 4 years"
+    }
+  },
+  {
+    "name": "Chinstrap Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Pygoscelis",
+      "scientific_name": "Pygoscelis Antarcticus"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "White face and thin, black line that runs under the chin",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sea Birds",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "There are 7 million breeding pairs!",
+      "color": "GreyBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "3kg - 6kg (6.6lbs - 13lbs)",
+      "height": "60cm - 68cm (24in - 27in)"
+    }
+  },
+  {
+    "name": "Crested Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Eudyptes",
+      "scientific_name": "Eudyptes robustus"
+    },
+    "locations": [
+      "Ocean",
+      "Oceania"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Red beak and bright yellow eyebrows",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "Has long yellow eyebrows!",
+      "color": "GreyYellowBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "3kg - 6kg (6.6lbs - 13lbs)",
+      "height": "60cm - 68cm (24in - 27in)"
+    }
+  },
+  {
+    "name": "Emperor Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Aptenodytes",
+      "scientific_name": "Aptenodytes forsteri"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Fish, Krill, Squid",
+      "name_of_young": "Chick",
+      "group_behavior": "Colony",
+      "estimated_population_size": "200,000 breeding pairs",
+      "biggest_threat": "Global warming",
+      "most_distinctive_feature": "Bright yellow feathers on neck and ears",
+      "wingspan": "76cm - 89cm (30in - 35in)",
+      "incubation_period": "60 - 70 days",
+      "age_of_fledgling": "5 - 6 months",
+      "habitat": "Compact sea-ice and ocean",
+      "predators": "Southern Giant Petrol, Leopard Seal, Killer Whale",
+      "diet": "Carnivore",
+      "lifestyle": "Diurnal",
+      "common_name": "Emperor Penguin",
+      "number_of_species": "1",
+      "location": "Antarctica",
+      "average_clutch_size": "1",
+      "slogan": "The world's largest species of penguin!",
+      "group": "Bird",
+      "color": "YellowBlackWhiteOrange",
+      "skin_type": "Feathers",
+      "top_speed": "15 mph",
+      "lifespan": "15 - 50 years",
+      "weight": "22kg - 45kg (49lbs - 99lbs)",
+      "height": "100cm - 120cm (39in - 47in)",
+      "age_of_sexual_maturity": "3 - 8 years"
+    }
+  },
+  {
+    "name": "Galapagos Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Spheniscus",
+      "scientific_name": "Spheniscus Mendiculus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Small body size and fully black head",
+      "habitat": "Rocky Ocean Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "Found around the Equator!",
+      "color": "GreyBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "2kg - 4kg (4.4lbs - 8.8lbs)",
+      "height": "48cm - 50cm (19in - 20in)"
+    }
+  },
+  {
+    "name": "Gentoo Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Pygoscelis",
+      "scientific_name": "Pygoscelis papua"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Small head with orange beak and feet",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "Found throughout the sub-Antarctic!",
+      "color": "GreyBlackWhiteOrange",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "4kg - 8kg (8.8lbs - 18lbs)",
+      "height": "51cm - 90cm (20in - 36in)"
+    }
+  },
+  {
+    "name": "Humboldt Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Spheniscus",
+      "scientific_name": "Spheniscus humboldti"
+    },
+    "locations": [
+      "Ocean",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Pink base of beak and black and white markings",
+      "habitat": "Rocky Ocean Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "Found on the South American coast!",
+      "color": "GreyBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "2kg - 5kg (4.4lbs - 11lbs)",
+      "height": "60cm - 68cm (24in - 27in)"
+    }
+  },
+  {
+    "name": "King Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Aptenodytes",
+      "scientific_name": "Aptenodytes patagonicus"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Large body size with yellow markings on head",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "More than 2 million breeding pairs!",
+      "color": "GreyYellowBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "11kg - 16kg (24lbs - 35lbs)",
+      "height": "60cm - 90cm (24in - 35in)"
+    }
+  },
+  {
+    "name": "Little Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Eudyptula",
+      "scientific_name": "Eudyptula Minor"
+    },
+    "locations": [
+      "Ocean",
+      "Oceania"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Small body size with blue/grey feathers",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "The smallest species of penguin!",
+      "color": "GreyBlueBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "10 - 20 years",
+      "weight": "1kg - 3kg (2.2lbs - 6.6lbs)",
+      "height": "35cm - 50cm (14in - 20in)"
+    }
+  },
+  {
+    "name": "Macaroni Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Eudyptes",
+      "scientific_name": "Eudyptes Chrysolophus"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Squid, Crustaceans",
+      "wingspan": "80-100cm (31-39in)",
+      "habitat": "Sea and ice-islands in Sub-Antarctica",
+      "predators": "Leopard Seal, Killer Whale",
+      "diet": "Carnivore",
+      "lifestyle": "Colony",
+      "favorite_food": "Fish",
+      "type": "Bird",
+      "average_clutch_size": "2",
+      "slogan": "Gather in colonies of up to 100,000 members!",
+      "color": "BrownYellowBlackWhite",
+      "skin_type": "Feathers",
+      "top_speed": "22 mph",
+      "lifespan": "15-20 years",
+      "weight": "3.2-6.4kg (7-14lbs)"
+    }
+  },
+  {
+    "name": "Magellanic Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Spheniscus",
+      "scientific_name": "Spheniscus magellanicus"
+    },
+    "locations": [
+      "Ocean",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Cuttlefish, Squid, Sardines",
+      "distinctive_feature": "Black beak and small wings",
+      "habitat": "Antarctic islands",
+      "predators": "Sea Lion, Leopard Seal, Killer Whale",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Flock",
+      "favorite_food": "Cuttlefish",
+      "type": "Bird",
+      "slogan": "Threatened by oil spills!",
+      "color": "BrownGreyBlackWhite",
+      "skin_type": "Feathers",
+      "top_speed": "22 mph",
+      "lifespan": "15 - 20 years",
+      "weight": "2.7kg - 6.5kg (5.9lbs - 14lbs)",
+      "length": "61cm - 76cm (24in - 30in)"
+    }
+  },
+  {
+    "name": "Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "scientific_name": "Aptenodytes Forsteri"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Crabs, Squid",
+      "distinctive_feature": "Short, sharp beak and slight webbed feet",
+      "wingspan": "60cm - 130cm (23.6in - 21in)",
+      "habitat": "Cold seas and rocky land",
+      "predators": "Leopard Seals, Sharks, Killer Whale",
+      "diet": "Omnivore",
+      "lifestyle": "Group",
+      "favorite_food": "Fish",
+      "type": "Bird",
+      "average_clutch_size": "1",
+      "slogan": "Spends 75% of it's time hunting for food!",
+      "color": "GreyYellowBlackWhite",
+      "skin_type": "Feathers",
+      "top_speed": "40 mph",
+      "lifespan": "20 - 30 years",
+      "weight": "1kg - 35kg (2.2lbs - 75lbs)",
+      "height": "40cm - 110cm (15.7in - 43in)"
+    }
+  },
+  {
+    "name": "Rockhopper Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Eudyptes",
+      "scientific_name": "Eudyptes chrysocome"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean",
+      "Oceania",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Red beaks and eyes, with yellow head feathers",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "There are 3 different species!",
+      "color": "GreyBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "2kg - 5kg (4.4lbs - 11lbs)",
+      "height": "45cm - 58cm (18in - 23in)"
+    }
+  },
+  {
+    "name": "Royal Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Eudyptes",
+      "scientific_name": "Eudyptes schlegeli"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Orange beak with yellow feathers on head",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "Can reach speeds of 20mph!",
+      "color": "GreyYellowBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "3kg - 6kg (6.6lbs - 13lbs)",
+      "height": "60cm - 68cm (24in - 27in)"
+    }
+  },
+  {
+    "name": "Yellow-Eyed Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Megadyptes",
+      "scientific_name": "Megadyptes antipodes"
+    },
+    "locations": [
+      "Ocean",
+      "Oceania"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Bright yellow head-band and pink coloured feet",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "The rarest species of penguin!",
+      "color": "BrownGreyYellowBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "10 - 20 years",
+      "weight": "5kg - 8kg (11lbs - 18lbs)",
+      "height": "60cm - 75cm (24in - 30in)"
+    }
+  }
+]

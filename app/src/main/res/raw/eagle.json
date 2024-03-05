@@ -1,0 +1,495 @@
+[
+  {
+    "name": "Bald Eagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Accipitridae",
+      "genus": "Haliaeetus",
+      "scientific_name": "haliaeetus leucocephalus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "Fish, birds, and small mammals",
+      "biggest_threat": "Pesticide use",
+      "most_distinctive_feature": "The white plumage on the head",
+      "other_name(s)": "American eagle",
+      "wingspan": "70-90 inches",
+      "incubation_period": "35 days",
+      "habitat": "Near forests",
+      "predators": "Wolverines, bobcats, foxes, bears, raccoons, and birds",
+      "diet": "Carnivore",
+      "type": "bird",
+      "common_name": "bald eagle",
+      "number_of_species": "1",
+      "location": "North America",
+      "average_clutch_size": "2",
+      "nesting_location": "Cliffs, trees, buildings, and ground",
+      "age_of_molting": "8-14 weeks",
+      "color": "BrownYellowWhite",
+      "top_speed": "100 mph",
+      "lifespan": "15-20 years in the wild",
+      "weight": "6.6-14lbs",
+      "height": "28-38 inches"
+    }
+  },
+  {
+    "name": "Beagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Gentle and intelligent but stubborn",
+      "training": "Should be trained in obedience from an early age due to their stubborn nature",
+      "diet": "Omnivore",
+      "average_litter_size": "7",
+      "common_name": "Beagle Dog",
+      "slogan": "Have become popular family pets!",
+      "group": "Hound",
+      "color": "BrownRedBlackWhiteTan",
+      "skin_type": "Hair"
+    }
+  },
+  {
+    "name": "Beagle Shepherd",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "temperament": "Vibrant, friendly, protective",
+      "diet": "Omnivore",
+      "color": "BrownRedBlackWhiteTanSilver",
+      "skin_type": "Hair",
+      "lifespan": "10-14 years",
+      "weight": "56 lbs"
+    }
+  },
+  {
+    "name": "Cheagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "temperament": "Loyal, outgoing, and charismatic",
+      "diet": "Omnivore",
+      "color": "BrownBlackWhiteCream",
+      "skin_type": "Hair",
+      "lifespan": "10 and 14 years",
+      "weight": "20 lbs"
+    }
+  },
+  {
+    "name": "Eagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Falconiformes",
+      "family": "Accipitridae"
+    },
+    "locations": [
+      "Africa",
+      "Asia",
+      "Central-America",
+      "Eurasia",
+      "Europe",
+      "North-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Mammals, Reptiles",
+      "distinctive_feature": "Long curved beak and strong, sharp claws",
+      "wingspan": "70cm - 250cm (27.5in - 98in)",
+      "habitat": "Open waters like rivers, lakes and coastal regions",
+      "predators": "Human, Hawk, Raccoon",
+      "diet": "Carnivore",
+      "lifestyle": "Solitary",
+      "favorite_food": "Fish",
+      "type": "Bird",
+      "average_clutch_size": "2",
+      "slogan": "Has exceptional eyesight!",
+      "nesting_location": "In trees or on cliffs",
+      "color": "BrownGreyYellowBlackWhite",
+      "skin_type": "Feathers",
+      "top_speed": "100 mph",
+      "lifespan": "15 - 30 years",
+      "weight": "0.5kg - 7kg (1.1lbs - 15.4lbs)",
+      "height": "40cm - 100cm (15.7in - 39.3in)"
+    }
+  },
+  {
+    "name": "Harpy Eagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Accipitridae",
+      "genus": "Harpia",
+      "scientific_name": "Harpia harpyja"
+    },
+    "locations": [
+      "Central-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "name_of_young": "Chicks or hatchlings",
+      "group_behavior": "Small families",
+      "estimated_population_size": "Unknown",
+      "most_distinctive_feature": "Crown of feathers",
+      "other_name(s)": "American Harpy Eagle",
+      "wingspan": "2m (6.5ft)",
+      "habitat": "Lowland rainforests",
+      "predators": "Other harpy eagles",
+      "diet": "Carnivore",
+      "favorite_food": "Sloths, monkeys, lizards, rodents, small deer, and birds",
+      "common_name": "Harpy Eagle",
+      "location": "Central and South America",
+      "slogan": "Talon's the size of a grizzly bear's claws!",
+      "group": "Birds",
+      "color": "BlackWhite",
+      "skin_type": "Feathers",
+      "top_speed": "50 mph",
+      "lifespan": "25 to 35 years in the wild",
+      "weight": "5kg - 9kg (11lb - 20lbs)",
+      "length": "89cm - 102cm (35in - 40in)",
+      "age_of_sexual_maturity": "4 or 5 years"
+    }
+  },
+  {
+    "name": "Malteagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "temperament": "Affectionate and playful",
+      "diet": "Omnivore",
+      "color": "BrownBlackWhiteCream",
+      "skin_type": "Hair",
+      "lifespan": "12-15 years",
+      "weight": "25 lbs"
+    }
+  },
+  {
+    "name": "Meagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "temperament": "Active, energetic, and sometimes stubborn",
+      "diet": "Omnivore",
+      "color": "BrownBlackWhiteCreamChocolate",
+      "skin_type": "Hair",
+      "lifespan": "10 to 15 years",
+      "weight": "20 lbs"
+    }
+  },
+  {
+    "name": "Mexican Eagle (Northern crested caracara)",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Falconiformes",
+      "family": "Falconidae",
+      "genus": "Caracara",
+      "scientific_name": "Caracara cheriway"
+    },
+    "locations": [
+      "Central-America",
+      "North-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "prey": "Rabbits, squirrels, skunks, frogs, lizards, snakes, turtles, fish, insects, birds, and alligators",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Unknown",
+      "most_distinctive_feature": "The multi-colored beak",
+      "other_name(s)": "Mexican eagle",
+      "wingspan": "1.2-1.3m (47-52in)",
+      "incubation_period": "30 days",
+      "habitat": "Prairies, deserts, and other semi-open terrains",
+      "predators": "Raccoons and crows",
+      "diet": "Carnivore",
+      "type": "Bird",
+      "common_name": "Northern Crested Caracara",
+      "number_of_species": "1",
+      "location": "North America and South America",
+      "nesting_location": "Shrubs, trees, and other structures",
+      "age_of_molting": "42-56 days",
+      "color": "BrownBlueWhiteOrange",
+      "lifespan": "26 years",
+      "weight": "1.3kg (3lbs)",
+      "height": "50-65cm (20-26in)"
+    }
+  },
+  {
+    "name": "Peagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "temperament": "Fun-loving and gentle",
+      "diet": "Omnivore",
+      "color": "BlackWhiteTan",
+      "skin_type": "Hair",
+      "lifespan": "12 to 14 years",
+      "weight": "18 pounds"
+    }
+  },
+  {
+    "name": "Pocket Beagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Energetic, determined, friendly, and curious",
+      "diet": "Omnivore",
+      "color": "GreyRedBlueBlackWhiteTanOrange",
+      "skin_type": "Hair",
+      "lifespan": "10 - 15 years",
+      "weight": "15 lbs"
+    }
+  },
+  {
+    "name": "Pomeagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "temperament": "Playful and intelligent",
+      "diet": "Omnivore",
+      "color": "BrownBlackWhite",
+      "skin_type": "Hair",
+      "lifespan": "12-15 years",
+      "weight": "25 lbs"
+    }
+  },
+  {
+    "name": "Porbeagle Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Lamniformes",
+      "family": "Lamnidae",
+      "genus": "Lamna",
+      "scientific_name": "Lamna nasus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Bony fish, squid, shell fish, and sharks",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Overfishing",
+      "most_distinctive_feature": "The massive, blade-like teeth",
+      "other_name(s)": "Atlantic Mackerel Shark, Bottle-nosed Shark, and Blue Dog",
+      "gestation_period": "8 to 9 months",
+      "water_type": "Salt",
+      "habitat": "Oceans",
+      "predators": "Humans",
+      "diet": "Carnivore",
+      "type": "Shark",
+      "common_name": "Porbeagle Shark",
+      "number_of_species": "1",
+      "color": "GreyBlueWhite",
+      "skin_type": "Rough",
+      "top_speed": "20 mph",
+      "weight": "Up to 500lbs",
+      "length": "1.5-3.6m (5-12ft)"
+    }
+  },
+  {
+    "name": "Schneagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "temperament": "Alert and energetic, but devoted",
+      "diet": "Omnivore",
+      "color": "BlackWhiteTan",
+      "skin_type": "Hair",
+      "lifespan": "12-15 years",
+      "weight": "25 lbs"
+    }
+  },
+  {
+    "name": "Sea Eagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Accipitridae",
+      "genus": "Haliaeetus Savigny",
+      "scientific_name": "Haliaeetus"
+    },
+    "locations": [
+      "Africa",
+      "Antarctica",
+      "Asia",
+      "Central-America",
+      "Eurasia",
+      "Europe",
+      "North-America",
+      "Ocean",
+      "Oceania"
+    ],
+    "characteristics": {
+      "prey": "Fish, rodents, small birds, reptiles, and amphibians",
+      "estimated_population_size": "More than a million",
+      "biggest_threat": "Habitat loss, poisoning, and hunting",
+      "most_distinctive_feature": "The contrasting dark and light plumage",
+      "other_name(s)": "Fish eagles and erns",
+      "wingspan": "up to seven feet",
+      "incubation_period": "one month",
+      "habitat": "Next to rivers, lakes, and seas",
+      "diet": "Carnivore",
+      "type": "bird",
+      "common_name": "sea eagle",
+      "number_of_species": "10",
+      "location": "everywhere except South America",
+      "average_clutch_size": "2",
+      "nesting_location": "trees and cliffs",
+      "age_of_molting": "two to three months",
+      "migratory": "1",
+      "color": "BrownYellowBlackWhite",
+      "skin_type": "Feathers",
+      "top_speed": "98 mph",
+      "lifespan": "About 20 years on average",
+      "weight": "up to 20 pounds",
+      "height": "Up to 3.3 feet"
+    }
+  },
+  {
+    "name": "White-Tailed Eagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Accipitridae",
+      "genus": "Haliaeetus",
+      "scientific_name": "Haliaeetus albicilla"
+    },
+    "locations": [
+      "Asia",
+      "Eurasia",
+      "Europe",
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "fish, birds, small mammals",
+      "estimated_population_size": "20,000-49,999",
+      "biggest_threat": "human disturbance, habitat destruction",
+      "most_distinctive_feature": "White tail",
+      "other_name(s)": "White-tailed sea eagle, gray sea eagle, Eurasian sea eagle",
+      "wingspan": "5.8ft-8ft",
+      "incubation_period": "38-42 days",
+      "litter_size": "2",
+      "habitat": "Coastal, marine, wetland, grassland, forest",
+      "predators": "None",
+      "diet": "Carnivore",
+      "type": "Bird",
+      "common_name": "White-tailed eagle",
+      "number_of_species": "2",
+      "location": "Eurasia",
+      "nesting_location": "Tree, branch, cliff",
+      "age_of_molting": "1 year",
+      "migratory": "1",
+      "color": "BrownGreyBlackWhiteCream",
+      "skin_type": "Feathers",
+      "top_speed": "46.5 mph",
+      "lifespan": "20-25 years",
+      "weight": "9.5-12 lbs",
+      "length": "66cm-94cm"
+    }
+  }
+]

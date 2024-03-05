@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Crocodile",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Crocodilia",
+      "family": "Crocodylidae",
+      "genus": "Crocodylus",
+      "scientific_name": "Crocodylus acutus"
+    },
+    "locations": [
+      "Africa",
+      "Asia",
+      "Central-America",
+      "North-America",
+      "Oceania",
+      "South-America"
+    ],
+    "characteristics": {
+      "prey": "Fish, crustaceans, deer, buffalo",
+      "name_of_young": "Hatchling",
+      "group_behavior": "Social",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Habitat loss and hunting",
+      "most_distinctive_feature": "Eyes and nostrils located on top of the head and snout",
+      "other_name(s)": "American crocodile, Orinoco crocodile, Freshwater crocodile, Philippine crocodile, Mexican crocodile, Nile crocodile, New Guinea crocodile, Mugger crocodile, Estuarine crocodile, Cuban crocodile, Siamese crocodile, Dwarf crocodile, Slender-snouted crocodile",
+      "incubation_period": "3 months",
+      "age_of_independence": "1 - 2 years",
+      "habitat": "Rivers, lakes, marshes, lagoons, mangrove swamps and estuaries",
+      "predators": "Humans, Large felines, Birds of prey",
+      "diet": "Carnivore",
+      "lifestyle": "Nocturnal",
+      "common_name": "Crocodile, Croc",
+      "number_of_species": "13",
+      "location": "North, Central and South America, Africa, Asia, Australia",
+      "slogan": "Have changed little in 200 million years!",
+      "group": "Reptile",
+      "color": "BrownGreyBlackDull Olive",
+      "skin_type": "Plate-like scales",
+      "top_speed": "25 mph",
+      "lifespan": "20 - 70 years",
+      "weight": "18kg - 1,000kg (40lbs - 2,200lbs)",
+      "length": "1.7m - 7m (5.5ft - 23ft)",
+      "age_of_sexual_maturity": "4 - 12 years"
+    }
+  },
+  {
+    "name": "Dwarf Crocodile",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "order": "Crocodilia",
+      "family": "Crocodylidae",
+      "genus": "Osteolaemus",
+      "scientific_name": "Osteolaemus tetraspis"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "prey": "Fish, Crustaceans, Frogs",
+      "name_of_young": "Hatchling",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "25,000 - 100,000",
+      "biggest_threat": "Habitat loss and hunting",
+      "most_distinctive_feature": "Short and broad snout",
+      "other_name(s)": "African Dwarf Crocodile, Black Crocodile, Bony Crocodile, Broad-Snouted Crocodile, Rough-Backed Crocodile",
+      "incubation_period": "3 months",
+      "age_of_independence": "Up to a few weeks",
+      "habitat": "Rainforest rivers and swamps",
+      "predators": "Crocodiles, Large Birds and Mammals",
+      "diet": "Carnivore",
+      "lifestyle": "Nocturnal",
+      "common_name": "Dwarf Crocodile",
+      "number_of_species": "2",
+      "location": "West Africa",
+      "average_clutch_size": "10",
+      "slogan": "Digs burrows in river banks to rest!",
+      "group": "Reptile",
+      "color": "GreyYellowBlack",
+      "skin_type": "Scales",
+      "top_speed": "11 mph",
+      "lifespan": "40 - 75 years",
+      "weight": "18kg - 32kg (40lbs - 70lbs)",
+      "length": "1.7m - 1.9m (5.5ft - 6.25ft)",
+      "age_of_sexual_maturity": "4 - 5 years"
+    }
+  },
+  {
+    "name": "Freshwater Crocodile",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Crocodilia",
+      "family": "Crocodylidae",
+      "genus": "Crocodylus",
+      "scientific_name": "Crocodylus johnstoni"
+    },
+    "locations": [
+      "Oceania"
+    ],
+    "characteristics": {
+      "prey": "Insects, fish, crustaceans, spiders, lizards, birds, snakes, frogs, turtles, bats and small mammals.",
+      "name_of_young": "Hatchling",
+      "group_behavior": "Social",
+      "estimated_population_size": "Less than 100,000 but its conservation status is least concern.",
+      "biggest_threat": "Cane toads, habitat destruction",
+      "most_distinctive_feature": "Its narrow snout",
+      "other_name(s)": "Freshie, Johnstone’s crocodile, Australian freshwater crocodile, Johnstone River Crocodile, Johnson's Crocodile, Johnstone's Crocodile",
+      "gestation_period": "65 to 95 days",
+      "litter_size": "13 to 20",
+      "habitat": "Rivers, billabongs, swamps, lagoons, other bodies of fresh water",
+      "predators": "Feral pigs and monitor lizards eat the eggs, olive pythons may eat smaller individuals",
+      "diet": "Carnivore",
+      "type": "Reptile",
+      "common_name": "Freshwater crocodile",
+      "number_of_species": "1",
+      "location": "Northern Australia",
+      "group": "Bask, nest",
+      "color": "GreyDark BrownDull OliveLight-Brown",
+      "skin_type": "Plate-like scales",
+      "top_speed": "10.56 mph",
+      "lifespan": "Lifespan usually 40 to 60 years but some have reached 100 years",
+      "weight": "159 pounds for males, 88 pounds for females",
+      "length": "7.5 to 9.75 feet for males, 6.9 feet for females",
+      "age_of_sexual_maturity": "17 to 20 years for males, 15 to 20 years for females"
+    }
+  },
+  {
+    "name": "Nile Crocodile",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Crocodilia",
+      "family": "Crocodylidae",
+      "genus": "Crocodylus",
+      "scientific_name": "Crocodylus niloticus"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "prey": "Fish, hippos, zebras, other crocodiles, birds",
+      "name_of_young": "Hatchling",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "50,000-70,000 mature adults",
+      "biggest_threat": "Poaching",
+      "most_distinctive_feature": "Large size",
+      "other_name(s)": "Nile croc",
+      "gestation_period": "84 to 90 days",
+      "litter_size": "25-80",
+      "habitat": "Mangrove swamps, rivers, freshwater marshes",
+      "predators": "Humans",
+      "diet": "Carnivore",
+      "type": "Reptile",
+      "common_name": "Nile Crocodile",
+      "number_of_species": "2",
+      "location": "Africa",
+      "color": "Dark BrownOlive",
+      "skin_type": "Scales",
+      "top_speed": "22 mph",
+      "lifespan": "45 years",
+      "weight": "500lbs-1,650lbs",
+      "length": "16ft-20ft",
+      "age_of_sexual_maturity": "Males-relates to their size, Females-10 years old",
+      "age_of_weaning": "Right after hatching"
+    }
+  }
+]

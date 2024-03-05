@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Kangaroo",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Diprotodontia",
+      "family": "Macropodidae"
+    },
+    "locations": [
+      "Oceania"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Seeds, Flowers",
+      "habitat": "Dry forests, desert and grassland",
+      "predators": "Human, Dingo",
+      "diet": "Omnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Sociable",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "Females have a deep pouch on their front!",
+      "color": "BrownGreyTan",
+      "skin_type": "Fur",
+      "top_speed": "35 mph",
+      "lifespan": "4-10 years",
+      "weight": "18-95kg (40-200lbs)"
+    }
+  },
+  {
+    "name": "Kangaroo Rat",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Rodentia",
+      "family": "Heteromyidae",
+      "genus": "Dipodomys"
+    },
+    "locations": [
+      "Central-America",
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "Insects such as grasshoppers",
+      "name_of_young": "Pup, pinkie or kitten",
+      "group_behavior": "Solitary",
+      "biggest_threat": "Habitat destruction and fragmentation",
+      "most_distinctive_feature": "Their powerful hind legs",
+      "other_name(s)": "Rat kangaroo, desert rat",
+      "gestation_period": "22 to 27 days",
+      "litter_size": "One to seven babies, though the average litter contains three.",
+      "habitat": "Desert",
+      "diet": "Omnivore",
+      "favorite_food": "Seeds and grasses. Some species eat insects and other types of vegetation.",
+      "common_name": "Kangaroo rat",
+      "number_of_species": "22",
+      "location": "Deserts",
+      "color": "BrownWhiteDark Grey",
+      "skin_type": "Fur",
+      "top_speed": "5 mph",
+      "lifespan": "2 to 5 years though some giant kangaroo rats have been known to live for over 9 years",
+      "weight": "4.5 ounces",
+      "height": "2 to 4 inches at the shoulder",
+      "length": "As long as 14 inches, with an 8-inch tail and 6-inch body. Males are larger than females.",
+      "age_of_sexual_maturity": "About 100 days",
+      "age_of_weaning": "22 to 25 days"
+    }
+  },
+  {
+    "name": "Tree Kangaroo",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Diprotodontia",
+      "family": "Macropodidae",
+      "genus": "Dendrolagus"
+    },
+    "locations": [
+      "Oceania"
+    ],
+    "characteristics": {
+      "prey": "Eggs, baby birds",
+      "name_of_young": "Joey",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "No more than a few thousand overall.",
+      "biggest_threat": "Hunting and habitat degradation and loss",
+      "most_distinctive_feature": "Marsupial pouch",
+      "gestation_period": "44 days",
+      "litter_size": "1",
+      "habitat": "Tropical rain forests",
+      "predators": "Snakes, humans",
+      "diet": "Omnivore",
+      "type": "Mammal",
+      "common_name": "tree kangaroo",
+      "number_of_species": "15",
+      "location": "Australia, New Guinea",
+      "group": "Largely solitary",
+      "color": "BrownGreyRedBlackWhiteGoldChestnut",
+      "skin_type": "Fur",
+      "top_speed": "44 mph",
+      "lifespan": "Probably 15 to 20 years",
+      "weight": "15 to 20 pounds. Males and females are similar.",
+      "height": "37 to 70 inches",
+      "length": "1.57 to 2.95 feet",
+      "age_of_sexual_maturity": "Two years for females, 4.6 years for males.",
+      "age_of_weaning": "10 months"
+    }
+  }
+]

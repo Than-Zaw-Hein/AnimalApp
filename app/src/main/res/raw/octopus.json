@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Blanket Octopus",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Mollusca",
+      "class": "Cephalopoda",
+      "order": "Octopoda",
+      "family": "Tremoctopodidae",
+      "genus": "Tremoctopus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Small fish",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown, but status is Least Concern",
+      "biggest_threat": "Natural predators",
+      "most_distinctive_feature": "Billowing cape (F), tiny size (M)",
+      "habitat": "Surface to mid-water, Coral reef",
+      "predators": "Blue shark, billfish, tuna",
+      "diet": "Carnivore",
+      "type": "octopoda",
+      "common_name": "Blanket octopus",
+      "number_of_species": "4",
+      "color": "YellowRedBlueWhiteGreenOrangePurplePink",
+      "skin_type": "Smooth",
+      "lifespan": "4 years (F), 1.5 years (M)",
+      "weight": "6-10lbs (F), under an ounce (M)",
+      "length": "3-6ft (F), ~1in (M)"
+    }
+  },
+  {
+    "name": "Blue-Ringed Octopus",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Mollusca",
+      "class": "Cephalopoda",
+      "order": "Octopoda",
+      "family": "Octopodidae",
+      "genus": "Hapalochlaena"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Shrimp, crabs, and fish",
+      "name_of_young": "Larvae",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Habitat changes",
+      "most_distinctive_feature": "The glowing blue rings on the yellow skin",
+      "gestation_period": "6 months",
+      "litter_size": "50 eggs",
+      "habitat": "Tidal pools and coral reefs",
+      "predators": "Seals, birds, eels, and larger fish",
+      "diet": "Carnivore",
+      "type": "Cephalopod",
+      "common_name": "Blue-ringed Octopus",
+      "number_of_species": "4",
+      "location": "Pacific and Indian Oceans",
+      "color": "BrownYellowBlueWhite",
+      "skin_type": "Skin",
+      "lifespan": "2 years",
+      "weight": "10-100g (0.35-3.5oz)",
+      "height": "12-25cm (5-10in)",
+      "age_of_sexual_maturity": "A year"
+    }
+  },
+  {
+    "name": "Octopus",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Mollusca",
+      "class": "Cephalopoda",
+      "order": "Octopoda",
+      "family": "Octopodidae",
+      "scientific_name": "Octopus Vulgaris"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Crabs, Fish, Scallops",
+      "habitat": "Tropical and temperate waters worldwide",
+      "predators": "Eels, Sharks, Dolphins",
+      "diet": "Omnivore",
+      "average_litter_size": "80",
+      "lifestyle": "Solitary",
+      "favorite_food": "Crabs",
+      "type": "Mollusca",
+      "slogan": "There are around 300 different species!",
+      "color": "BrownRedBlueTanOrangePurple",
+      "skin_type": "Smooth",
+      "top_speed": "27 mph",
+      "lifespan": "2-15 years",
+      "weight": "5-75kg (11-165lbs)"
+    }
+  }
+]

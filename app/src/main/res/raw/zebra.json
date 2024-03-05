@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Zebra",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Perissodactyla",
+      "family": "Equidae",
+      "genus": "Equus",
+      "scientific_name": "Equus zebra, Equus quagga, Equus grevyi"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "prey": "Grasses, Leaves, Buds",
+      "name_of_young": "Foal",
+      "group_behavior": "Herd",
+      "estimated_population_size": "Declining",
+      "biggest_threat": "Habitat loss",
+      "most_distinctive_feature": "Long, slender legs and one toe on each foot",
+      "other_name(s)": "Mountain Zebra, Common Zebra, Plains Zebra, Burchells Zebra, Grevys Zebra",
+      "gestation_period": "10 - 12 months",
+      "habitat": "Open grassland and plains",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Diurnal",
+      "common_name": "Zebra",
+      "number_of_species": "3",
+      "location": "Eastern and Southern Africa",
+      "slogan": "Stripe patterns are unique to each individual!",
+      "group": "Mammal",
+      "color": "BrownBlackWhite",
+      "skin_type": "Hair",
+      "lifespan": "20 - 30 years",
+      "weight": "220kg - 405kg (485lbs - 893lbs)",
+      "length": "2m - 2.75m (6.6ft - 9ft)",
+      "age_of_sexual_maturity": "3 - 4 years",
+      "age_of_weaning": "11 months"
+    }
+  },
+  {
+    "name": "Zebra Finch",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Passeriformes",
+      "family": "Estrildidae",
+      "genus": "Taeniopygia",
+      "scientific_name": "Taeniopygia guttata"
+    },
+    "locations": [
+      "Asia",
+      "Oceania"
+    ],
+    "characteristics": {
+      "prey": "Seeds, fruits, vegetables, and insects",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Predators",
+      "most_distinctive_feature": "The speckled or striped plumage along the sides and tail",
+      "wingspan": "8-9 inches",
+      "incubation_period": "2 weeks",
+      "habitat": "Savannas and grasslands",
+      "predators": "Marsupials, snakes, mice, and birds of prey",
+      "diet": "Omnivore",
+      "type": "Bird",
+      "common_name": "Zebra Finch",
+      "number_of_species": "1",
+      "location": "Australia and Timor",
+      "nesting_location": "Trees, bushes, or burrows",
+      "age_of_molting": "3 weeks",
+      "color": "GreyRedBlackWhiteOrange",
+      "skin_type": "Feathers",
+      "weight": "12g",
+      "length": "4 inches"
+    }
+  },
+  {
+    "name": "Zebra Mussels",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Myida",
+      "family": "Dreissenidae",
+      "genus": "Dreissena",
+      "scientific_name": "Dreissena polymorpha"
+    },
+    "locations": [
+      "Eurasia",
+      "Europe",
+      "North-America",
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Plankton, waste and debris from water",
+      "group_behavior": "Beds (like reefs)",
+      "estimated_population_size": "unknown",
+      "most_distinctive_feature": "Alternating dark and light stripes on outer shells",
+      "other_name(s)": "Dreissena polymorpha",
+      "gestation_period": "two days",
+      "water_type": "Fresh",
+      "habitat": "freshwater rivers, lakes and streams",
+      "predators": "Ducks, fish, crabs",
+      "diet": "Herbivore",
+      "type": "mollusk",
+      "common_name": "Zebra mussel",
+      "number_of_species": "1",
+      "color": "BrownWhiteBeige",
+      "skin_type": "Shell",
+      "lifespan": "2 to 5 years",
+      "length": "1 inch"
+    }
+  },
+  {
+    "name": "Zebra Pleco",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Siluriformes",
+      "family": "Loricariidae",
+      "genus": "Hypancistrus",
+      "scientific_name": "Hypancistrus zebra"
+    },
+    "locations": [
+      "South-America"
+    ],
+    "characteristics": {
+      "prey": "Algae, detritus, and small organic matter",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Dam construction and poaching.",
+      "other_name(s)": "Imperial pleco",
+      "gestation_period": "1 week",
+      "temperament": "Passive and shy.",
+      "water_type": "Fresh",
+      "optimum_ph_level": "6-7.5 pH",
+      "habitat": "Rivers",
+      "predators": "Larger fish",
+      "diet": "Omnivore",
+      "average_litter_size": "7-15",
+      "common_name": "Zebra Pleco",
+      "origin": "Brazil",
+      "number_of_species": "1",
+      "location": "Brazil",
+      "color": "BlackWhite",
+      "skin_type": "Boney Plates",
+      "lifespan": "10-15 years"
+    }
+  },
+  {
+    "name": "Zebra Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Orectolobiformes",
+      "family": "Stegostomatidae",
+      "genus": "Stegostoma",
+      "scientific_name": "Stegostoma Fasciatum"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Crabs, Snails",
+      "optimum_ph_level": "7.8 - 8.4",
+      "habitat": "Tropical, coastal waters",
+      "predators": "Large Sharks, Humans",
+      "diet": "Omnivore",
+      "average_litter_size": "10",
+      "favorite_food": "Fish",
+      "type": "Salt",
+      "slogan": "Can get to be 30 years old in the wild!",
+      "color": "BrownGreyYellowBlackWhite",
+      "skin_type": "Smooth",
+      "lifespan": "15 - 20 years",
+      "weight": "16kg - 20kg (35lbs - 44lbs)"
+    }
+  },
+  {
+    "name": "Zebra Snake",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Elapidae",
+      "genus": "Naja",
+      "scientific_name": "Naja nigricincta"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "prey": "rodents, birds, fish, eggs, other reptiles",
+      "diet": "Carnivore",
+      "average_litter_size": "10 - 20 eggs",
+      "common_name": "western barred spitting cobra, zebra cobra, zebra snake",
+      "color": "Black",
+      "lifespan": "12+ years",
+      "length": "4 feet",
+      "venomous": "Yes",
+      "aggression": "Medium"
+    }
+  }
+]

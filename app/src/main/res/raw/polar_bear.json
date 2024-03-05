@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Polar Bear",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Ursidae",
+      "genus": "Ursus",
+      "scientific_name": "Ursus maritimus"
+    },
+    "locations": [
+      "Eurasia",
+      "Europe",
+      "North-America",
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Seal, Walrus, Seabirds",
+      "name_of_young": "Cub",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "20,000 - 25,000",
+      "biggest_threat": "Global warming",
+      "most_distinctive_feature": "Clear not white fur and black skin",
+      "other_name(s)": "Nanuuq",
+      "gestation_period": "6 - 9 months",
+      "habitat": "Coastal ice fields and floating ice",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Diurnal",
+      "common_name": "Polar Bear",
+      "number_of_species": "1",
+      "location": "Arctic Ocean",
+      "slogan": "Could be extinct within the next 30 years!",
+      "group": "Mammal",
+      "color": "YellowWhite",
+      "skin_type": "Fur",
+      "top_speed": "25 mph",
+      "lifespan": "20 - 30 years",
+      "weight": "150kg - 600kg (330lbs - 1,322lbs)",
+      "length": "2m - 2.5m (6.5ft - 8.3ft)",
+      "age_of_sexual_maturity": "3 - 5 years",
+      "age_of_weaning": "2 - 3 years"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Giraffe",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Giraffidae",
+      "genus": "Giraffa",
+      "scientific_name": "Giraffa camelopardalis"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "prey": "Leaves, Fruits, Seeds",
+      "name_of_young": "Calf",
+      "group_behavior": "Herd",
+      "estimated_population_size": "Stable",
+      "biggest_threat": "Hunting and habitat loss",
+      "most_distinctive_feature": "Elongated neck and unique patterned coat",
+      "gestation_period": "457 days",
+      "habitat": "Open woodland and savannah",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Diurnal",
+      "common_name": "Giraffe",
+      "number_of_species": "9",
+      "location": "sub-Saharan Africa",
+      "slogan": "Long, black tongue can grow to 18 inches long!",
+      "group": "Mammal",
+      "color": "BrownRedBlackWhiteTan",
+      "skin_type": "Hair",
+      "top_speed": "30 mph",
+      "lifespan": "20 - 25 years",
+      "weight": "550kg - 1,930kg (1,200lbs - 4,200lbs)",
+      "height": "4m - 6m (13ft - 20ft)",
+      "age_of_sexual_maturity": "3.5 - 4.5 years",
+      "age_of_weaning": "13 months"
+    }
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Amazon River Dolphin (Pink Dolphin)",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Platanistoidea",
+      "genus": "Platanistidae",
+      "scientific_name": "Platanistoidea"
+    },
+    "locations": [
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Prawns, Frogs",
+      "habitat": "Large tropical rivers and estuaries",
+      "predators": "Human",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "School",
+      "favorite_food": "Fish",
+      "type": "Mammal",
+      "slogan": "Also known as the 'Pink Dolphin'",
+      "color": "GreyPink",
+      "skin_type": "Smooth",
+      "top_speed": "18 mph",
+      "lifespan": "12-18 years",
+      "weight": "100-200kg (220-440lbs)"
+    }
+  },
+  {
+    "name": "Bottlenose Dolphin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Delphinidae",
+      "genus": "Tursiops",
+      "scientific_name": "Tursiops Truncatus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Shrimp, Squid",
+      "distinctive_feature": "Large dorsal fins and communicate using whistling",
+      "habitat": "Warm harbours and bays",
+      "predators": "Human, Sharks, Killer Whale",
+      "diet": "Omnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Pod",
+      "favorite_food": "Fish",
+      "type": "Mammal",
+      "slogan": "Stays in groups from 15 to 2,000 in number!'",
+      "color": "Light GreyDark Grey",
+      "skin_type": "Smooth",
+      "top_speed": "21 mph",
+      "lifespan": "20 - 35 years",
+      "weight": "200kg - 300kg (440lbs - 660lbs)",
+      "length": "2.5m - 4m (8ft - 13ft)"
+    }
+  },
+  {
+    "name": "Dolphin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacean",
+      "family": "Delphinidae"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Squid, Crustaceans",
+      "group_behavior": "Pod",
+      "distinctive_feature": "A beaklike snout and rounded \"melon\" or forehead",
+      "water_type": "Brackish",
+      "habitat": "All of the world's oceans, rivers in Asia and South America",
+      "predators": "Sharks, orcas",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Pod",
+      "favorite_food": "Squid",
+      "type": "Mammal",
+      "slogan": "Can reach speeds of up to 25 mph!",
+      "color": "GreyYellowBlackWhitePink",
+      "skin_type": "Smooth",
+      "top_speed": "25 mph",
+      "lifespan": "20 to 45 years",
+      "weight": "100 to 300 kg (220 to 660 lbs)",
+      "length": "2m - 4m (6.5ft - 13ft)"
+    }
+  },
+  {
+    "name": "Dusky Dolphin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Delphinidae",
+      "genus": "Lagenorhynchus",
+      "scientific_name": "Lagenorhynchus obscurus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Anchovies, Sardines, Squid",
+      "name_of_young": "Calf",
+      "group_behavior": "Pod",
+      "estimated_population_size": "Not Known",
+      "biggest_threat": "Hunting and commercial fishing",
+      "most_distinctive_feature": "Rounded black beak and tall, curved dorsal fin",
+      "gestation_period": "11 months",
+      "habitat": "Cooler waters near continental shelves",
+      "predators": "Killer Whales, Sharks, Humans",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Diurnal/Nocturnal",
+      "common_name": "Dusky Dolphin",
+      "number_of_species": "3",
+      "location": "Across the southern hemisphere",
+      "slogan": "Communicates using whistles, squeaks and clicks!",
+      "group": "Mammal",
+      "color": "GreyBlueBlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "23 mph",
+      "lifespan": "18 - 25 years",
+      "weight": "80kg - 120kg (176lbs - 264lbs)",
+      "length": "1.6m - 2.1m (5ft - 7ft)",
+      "age_of_sexual_maturity": "4 - 5 years",
+      "age_of_weaning": "18 months"
+    }
+  },
+  {
+    "name": "Mahi Mahi (Dolphin Fish)",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Carangiformes",
+      "family": "Coyphaenidae",
+      "genus": "Coryphaena",
+      "scientific_name": "Coryphaena hippurus"
+    },
+    "locations": [
+      "Central-America",
+      "North-America",
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Crustacean, squid, fish",
+      "group_behavior": "School",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "None",
+      "most_distinctive_feature": "Its vivid colors",
+      "distinctive_feature": "Blunt face",
+      "other_name(s)": "Dorado, llampuga (Spanish), lampuka (Malta), lampuga or capone (Sicily), Coryphene (French), Goldmakrel (German), Shiira (Japanese)",
+      "gestation_period": "41 - 45 hours",
+      "water_type": "Salt",
+      "habitat": "Temperate, tropical, and subtropical waters",
+      "predators": "Humans, larger fish, marine mammals",
+      "diet": "Omnivore",
+      "type": "Fish",
+      "color": "BlueGoldGreenBeige",
+      "skin_type": "Scales",
+      "lifespan": "4 - 5 years",
+      "weight": "15 - 29 pounds",
+      "length": "39.3 inches",
+      "age_of_sexual_maturity": "3 - 5 months",
+      "age_of_weaning": "Unknown"
+    }
+  }
+]

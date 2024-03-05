@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Baleen Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Eschrichtiidae",
+      "genus": "Eubalaena and Balaena",
+      "scientific_name": "Mysticeti"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Krill, fish, zooplankton, phytoplankton, and algae",
+      "name_of_young": "calves",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "1.1 million+",
+      "biggest_threat": "Poaching/whaling",
+      "most_distinctive_feature": "Baleen (rather than teeth)",
+      "other_name(s)": "whalebone whale or mysticetes",
+      "gestation_period": "10 months",
+      "litter_size": "1",
+      "habitat": "Warm and freezing ocean",
+      "predators": "Humans, orcas",
+      "diet": "Carnivore",
+      "type": "Mammal",
+      "common_name": "baleen whale",
+      "number_of_species": "-2",
+      "location": "Oceanwide",
+      "group": "solitary",
+      "color": "GreyBlueBlack",
+      "skin_type": "Skin",
+      "top_speed": "22 mph",
+      "lifespan": "can be 100+ years",
+      "weight": "varies between species",
+      "length": "40+ feet",
+      "age_of_sexual_maturity": "5-10 years",
+      "age_of_weaning": "6-7 months"
+    }
+  },
+  {
+    "name": "Blue Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Balaenopteridae",
+      "genus": "Balaenoptera",
+      "scientific_name": "Balsenoptera musculus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Krill, Crustaceans, Small Fish",
+      "name_of_young": "Calf",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Less than 20,000",
+      "biggest_threat": "Climate change",
+      "most_distinctive_feature": "Pleats on neck and two blow-holes",
+      "other_name(s)": "Northern, Southern, Pygmy",
+      "gestation_period": "11 -12 months",
+      "habitat": "Polar and subtropical waters",
+      "predators": "Humans, Killer Whale pods",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Diurnal",
+      "common_name": "Blue Whale",
+      "number_of_species": "3",
+      "location": "Oceans worldwide",
+      "slogan": "The largest animal on Earth",
+      "group": "Mammal",
+      "color": "GreyBlueBlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "13 mph",
+      "lifespan": "30 - 45 years",
+      "weight": "100tonnes - 160tonnes (220,000lbs - 352,000lbs)",
+      "length": "25m - 30m (82.5ft - 100ft)",
+      "age_of_sexual_maturity": "10- 15 years",
+      "age_of_weaning": "8 months"
+    }
+  },
+  {
+    "name": "Bowhead Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Balaenidae",
+      "genus": "Balaena",
+      "scientific_name": "Balaena mysticetus"
+    },
+    "locations": [
+      "Least Concern"
+    ],
+    "characteristics": {
+      "prey": "Zooplankton",
+      "group_behavior": "SolitaryPod",
+      "estimated_population_size": "8,000 to 12,000",
+      "biggest_threat": "Climate change and humans",
+      "most_distinctive_feature": "Large triangular-shaped skull",
+      "other_name(s)": "Greenland Right Whale, Arctic Whale, Polar Whale, Steeple-Top, Russian Whale",
+      "gestation_period": "13 to 14 months",
+      "predators": "Killer Whales and humans",
+      "diet": "Herbivore",
+      "common_name": "Bowhead Whale",
+      "number_of_species": "1",
+      "location": "Arctic and subarctic waters",
+      "skin_type": "Tough",
+      "top_speed": "6.2 mph",
+      "lifespan": "Unknown, but may be 200 years or more",
+      "weight": "75 to 100 ton",
+      "length": "50 to 60 feet long"
+    }
+  },
+  {
+    "name": "False Killer Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Delphinidae",
+      "genus": "Pseudorca",
+      "scientific_name": "Pseudorca crassidens"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Fish, squid, and marine mammals",
+      "group_behavior": "Pod",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Competition with humans for food",
+      "most_distinctive_feature": "The versatile vocalizations",
+      "other_name(s)": "Blackfish or false pilot whale",
+      "gestation_period": "Up to 16 months",
+      "water_type": "Salt",
+      "habitat": "Coastal and deep ocean regions",
+      "predators": "Sharks and killer whales",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "type": "Mammal",
+      "common_name": "False killer whale",
+      "color": "GreyBlackWhite",
+      "skin_type": "Skin",
+      "top_speed": "18 mph",
+      "lifespan": "Around 60 years",
+      "weight": "Up to 4,000 pounds",
+      "length": "Up to 20 feet"
+    }
+  },
+  {
+    "name": "Fin Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Balaenopteridae",
+      "genus": "Balaenoptera",
+      "scientific_name": "Balaenoptera Physalus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Squid",
+      "distinctive_feature": "Pointed snout and two blowholes on top of head",
+      "habitat": "Deep offshore waters",
+      "predators": "Human, Large Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Krill",
+      "type": "Mammal",
+      "slogan": "Found throughout ocean waters worldwide!",
+      "color": "GreyBlueBlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "25 mph",
+      "lifespan": "50 - 60 years",
+      "weight": "1,800kg - 70,000kg (4,000lbs - 150,000lbs)",
+      "length": "6.5m - 24m (21ft - 79ft)"
+    }
+  },
+  {
+    "name": "Humpback Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Balaenopteridae",
+      "genus": "Megaptera",
+      "scientific_name": "Megaptera novaeangliae"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Plankton, crustaceans, and fish",
+      "group_behavior": "Pod",
+      "estimated_population_size": "120,000 to 150,000",
+      "biggest_threat": "Accidents with boats and nets",
+      "most_distinctive_feature": "The small hump on the back",
+      "gestation_period": "11 months",
+      "water_type": "Salt",
+      "habitat": "Oceans close to the shore",
+      "predators": "Human, Killer Whale",
+      "diet": "Omnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Krill",
+      "type": "Cetaceans",
+      "common_name": "Humpback whales",
+      "slogan": "There are thought to be 80,000 left in the wild!",
+      "color": "GreyBlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "17 mph",
+      "lifespan": "45 to 50 years",
+      "weight": "36,000-99,800kg (40-100tons)",
+      "length": "14.6m - 19m (48ft - 62ft)"
+    }
+  },
+  {
+    "name": "Killer Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Delphinidae",
+      "genus": "Orcinus",
+      "scientific_name": "Orcinus orca"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Seal, Fish, Squid",
+      "group_behavior": "Pod",
+      "water_type": "Salt",
+      "habitat": "Ocean and coastal waters worldwide",
+      "predators": "Human, Larger Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Pod",
+      "favorite_food": "Seal",
+      "type": "Mammal",
+      "slogan": "Typically consumes over 200 kg of food a day!",
+      "color": "BlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "30 mph",
+      "lifespan": "50-60 years",
+      "weight": "6,804-8,618kg (15,000-19,000lbs)"
+    }
+  },
+  {
+    "name": "Minke Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Balaenopteridae",
+      "genus": "Balaenoptera",
+      "scientific_name": "Balaenoptera acutorostrata"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, herring, sand eels, sprat, capelin, silverfish, and lanternfish",
+      "estimated_population_size": "Common Minke Whale: 180,000; Antarctic Minke Whale: 515,000",
+      "biggest_threat": "Killer Whales",
+      "other_name(s)": "Lesser Rorqual, Lesser Finback, Sharp-Headed Finner, Little Finner, Pike Whale",
+      "gestation_period": "10 months",
+      "water_type": "Salt",
+      "habitat": "Temperate, tropic, or sub tropic waters",
+      "predators": "Human, Sharks, Killer Whales",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Krill",
+      "type": "Mammal",
+      "common_name": "Minke Whale",
+      "number_of_species": "2",
+      "slogan": "There are two recognised species!",
+      "color": "BrownGreyBlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "13 mph",
+      "lifespan": "30-50 years",
+      "weight": "4,536-12,700kg (5-14tons)"
+    }
+  },
+  {
+    "name": "Sei Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Balaenopteridae",
+      "genus": "Balaenoptera",
+      "scientific_name": "Balaenoptera borealis"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": " Krill and other euphausiids, copepods, small fish and squid",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "80,000",
+      "biggest_threat": "Humans, climate change, pollution",
+      "most_distinctive_feature": "Its tall, sickle-shaped dorsal fin",
+      "other_name(s)": "Japan finner, lesser fin whale, pollock whale, sardine whale, coalfish, Rudolph’s rorqual",
+      "gestation_period": "10.5 to 12 months",
+      "water_type": "Salt",
+      "predators": "Humans",
+      "diet": "Carnivore",
+      "type": "Mammal",
+      "common_name": "Sei Whale",
+      "number_of_species": "2",
+      "color": "GreyWhite",
+      "skin_type": "Skin",
+      "top_speed": "32 mph",
+      "lifespan": "70 years plus",
+      "weight": " Up to 31 tons",
+      "length": "64 feet, females bigger"
+    }
+  },
+  {
+    "name": "Sperm Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Physeteridae",
+      "genus": "Physeter",
+      "scientific_name": "Physeter macrocephalus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Squid, sharks, skates, fish",
+      "group_behavior": "Pod/Solitary",
+      "estimated_population_size": "300,000 to 450,000",
+      "biggest_threat": "Human activity, climate change",
+      "most_distinctive_feature": "Size and huge head",
+      "distinctive_feature": "Cone-shaped teeth and enormous body size",
+      "other_name(s)": "Cachalot",
+      "gestation_period": "14 to 16 months",
+      "water_type": "Salt",
+      "optimum_ph_level": "6 - 9",
+      "habitat": "Ocean",
+      "predators": "Sharks, Humans, Killer Whales",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "favorite_food": "Squid",
+      "type": "Cetacean Common nam",
+      "common_name": "Sperm Whale",
+      "number_of_species": "4",
+      "slogan": "Each tooth weighs 1kg!",
+      "color": "GreyWhite",
+      "skin_type": "Smooth",
+      "top_speed": "23 mph",
+      "lifespan": "Up to 60 years",
+      "weight": "35 to 45 tons",
+      "length": "49 to 59 feet"
+    }
+  },
+  {
+    "name": "Whale Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Orectolobiformes",
+      "family": "Rhincodontidae",
+      "genus": "Rhincodon",
+      "scientific_name": "Rhincodon Typus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Plankton, Crab, Fish",
+      "habitat": "Warm coastal waters and open ocean",
+      "predators": "Human, Sharks, Killer Whale",
+      "diet": "Carnivore",
+      "average_litter_size": "12",
+      "lifestyle": "Solitary",
+      "favorite_food": "Krill",
+      "type": "Fish",
+      "slogan": "The largest species of fish in the world!",
+      "color": "BrownGreyBlue",
+      "skin_type": "Smooth",
+      "top_speed": "10 mph",
+      "lifespan": "60-70 years",
+      "weight": "13,607-18,144kg (15-20tons)"
+    }
+  }
+]

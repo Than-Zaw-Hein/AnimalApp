@@ -1,12 +1,12 @@
 # Animal Gallery App
 
-Welcome to the Animal Gallery App repository! This Android app is designed to showcase beautiful pictures of animals fetched from the Unsplash API. The project utilizes Dagger Hilt for Dependency Injection, providing a clean and modular architecture.
+Welcome to the Animal Gallery App repository! This Android app is designed to showcase beautiful pictures of 20 animals fetched from the Unsplash API. The project utilizes Dagger Hilt for Dependency Injection, providing a clean and modular architecture.
 
 ## Features
 
 - **Dagger Hilt Integration**: Utilizes Dagger Hilt for efficient and simplified Dependency Injection.
-- **Unsplash API Integration**: Fetches high-quality animal pictures from the Unsplash API.
-- **Animal Details**: Provides detailed information about each animal, enhancing the user experience.
+- **Unsplash API Integration**: Fetches high-quality pictures of 20 different animals from the Unsplash API.
+- **Animal Details**: Provides detailed information about each of the featured animals, enhancing the user experience.
 
 ## Technologies Used
 
